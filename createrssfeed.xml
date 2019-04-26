@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>[Frontoffice Private] All Content Feed</title>
+  <link rel="alternate" href="https://confluence-wdtool01.v12.p01.ocp.six-group.net" />
+  <subtitle>Confluence Syndication Feed</subtitle>
+  <id>https://confluence-wdtool01.v12.p01.ocp.six-group.net</id>
+  <entry>
+    <title>Webtime - App label</title>
+    <link rel="alternate" href="https://confluence-wdtool01.v12.p01.ocp.six-group.net/display/FOprivate/Webtime+-+App+label" />
+    <author>
+      <name>Ferreira, César (SPS-Worldline)</name>
+    </author>
+    <id>tag:confluence-wdtool01.v12.p01.ocp.six-group.net,2009:page-92506245-4</id>
+    <updated>2019-04-24T06:59:07Z</updated>
+    <published>2019-04-24T06:59:07Z</published>
+    <summary type="html">&lt;div class="feed"&gt;    &lt;p&gt;
+        Page
+            &lt;b&gt;edited&lt;/b&gt; by
+                    &lt;a href="    https://confluence-wdtool01.v12.p01.ocp.six-group.net/display/~tkfrs
+"&gt;Ferreira, César (SPS-Worldline)&lt;/a&gt;
+            &lt;/p&gt;
+        &lt;div style="border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 10px;"&gt;
+        &lt;div class="table-wrap"&gt;&lt;table class="wrapped confluenceTable"&gt;&lt;colgroup&gt;&lt;col/&gt;&lt;col/&gt;&lt;col/&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th class="confluenceTh"&gt;Cost&lt;/th&gt;&lt;th colspan="1" class="confluenceTh"&gt;App label&lt;/th&gt;&lt;th class="confluenceTh"&gt;App Name&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="confluenceTd"&gt;&lt;p&gt;10895005&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;p&gt;ASA &lt;/p&gt;&lt;/td&gt;&lt;td class="confluenceTd"&gt;&lt;p&gt;Alipay Scheme Adapter&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="confluenceTd"&gt;10895005&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;p&gt;MPAP &lt;/p&gt;&lt;p&gt;MPEP2CA&lt;/p&gt;&lt;/td&gt;&lt;td class="confluenceTd"&gt;&lt;p&gt;Mobile Payments Arquiring Plattform (oder so was)&lt;/p&gt;&lt;p&gt;Mobile Payments EP2 Channel Adapt&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="confluenceTd"&gt;10895005&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;SATACA&lt;/td&gt;&lt;td class="confluenceTd"&gt;SATA Scheme Adapter User&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895005&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;div class="WordSection1"&gt;&lt;p class="MsoNormal" style="line-height: normal;"&gt;&lt;span style="font-size: 10.0pt;font-family: &amp;quot;Segoe UI&amp;quot; , sans-serif;color: black;"&gt;FINP&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Finance processor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895002&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;CLI&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Card link&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895002&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;ATMf&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;ATM Futura&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895030&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;PCI&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;activity:Release all PCI related activity&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895002&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;EP2-Batch&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Ep2 HA batch&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895002&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;EP2_INIT_TEMPLATE&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Ep2 template&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895002&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;HSS&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;HSS / HSM HA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895002&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;GOMS&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Goms 3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895001&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;DCC&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;DCC tandem&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;10895005&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;p&gt;account-management&lt;/p&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Twint account management&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;CIS&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;TSA&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;TAT&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Twint account&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;TAPR&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="1" class="confluenceTd"&gt;&lt;br/&gt;&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;OEMP&lt;/td&gt;&lt;td colspan="1" class="confluenceTd"&gt;Oem pay&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+    &lt;/div&gt;
+        &lt;div style="padding: 10px 0;"&gt;
+       &lt;a href="https://confluence-wdtool01.v12.p01.ocp.six-group.net/display/FOprivate/Webtime+-+App+label"&gt;View Online&lt;/a&gt;
+              &amp;middot;
+       &lt;a href="https://confluence-wdtool01.v12.p01.ocp.six-group.net/pages/diffpagesbyversion.action?pageId=92506245&amp;revisedVersion=4&amp;originalVersion=3"&gt;View Changes Online&lt;/a&gt;       
+                     &amp;middot;
+       &lt;a href="https://confluence-wdtool01.v12.p01.ocp.six-group.net/display/FOprivate/Webtime+-+App+label?showComments=true&amp;showCommentArea=true#addcomment"&gt;Add Comment&lt;/a&gt;
+           &lt;/div&gt;
+&lt;/div&gt;</summary>
+    <dc:creator>Ferreira, César (SPS-Worldline)</dc:creator>
+    <dc:date>2019-04-24T06:59:07Z</dc:date>
+  </entry>
+</feed>
+
